@@ -1,16 +1,6 @@
 # blob_loading
 
-A new Flutter project.
+Blob loading with blob package.You can customize blob loading which provided this repo easily.Also you can change count of blobs, colors, size and others.
+Happy coding!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IMG_7E3F8D8A0CBC-1](https://github.com/KhayyamA47/blob_loading/assets/54634944/c5407e3d-1692-4502-ba22-2a867a7c3561)
